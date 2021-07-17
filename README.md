@@ -1,9 +1,7 @@
 
-# TimeOff.Management
+# Time-Offer
 
-Web application for managing employee absences.
-
-<a href="https://travis-ci.org/timeoff-management/timeoff-management-application"><img align="right" src="https://travis-ci.org/timeoff-management/timeoff-management-application.svg?branch=master" alt="Build status" /></a>
+Web application for managing employee absences. Fork of [timeoff-managment](https://github.com/timeoff-management/timeoff-management-application) project, with major changes that cannot be added to the main repository quickly. Please do go to the main project repository for official updates and changes!
 
 ## Features
 
